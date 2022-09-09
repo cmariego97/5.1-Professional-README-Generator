@@ -14,7 +14,7 @@ This is command-line application that generates a professional README.md file fr
 
 My name is Clarence and I am a web development student.
 
-* GitHub username: cmariego97
+* GitHub username: cmarie.go97
 
 ## Installation
 
