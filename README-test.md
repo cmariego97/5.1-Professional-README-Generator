@@ -1,10 +1,13 @@
-# A Very Professional README Generator
+
+# Professional README Generator
 
 ## Description
-This is command-line application that generates a professional README.md file from a user's input with the inquirer package.
+
+This is a command-line application that generates a README.md file.
 
 ## Table of Contents
 
+- [Developer](#Developer-Info)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -12,9 +15,11 @@ This is command-line application that generates a professional README.md file fr
 
 ## Developer Info
 
-My name is Clarence and I am a web development student.
+My name is Claire and I am a web developer student.
 
-* GitHub username: cmariego97
+* E-mail: claire@email.com
+
+* GitHub username: undefined
 
 ## Installation
 
@@ -37,25 +42,27 @@ npm i
 3. Markdown Preview demo:
 ![Markdown Preview demo:](./assets/readme-preview.gif)
 
-
-This application will be invoked with the command:
-~~~
-node index.js
-~~~
+type in command "node index.js" in the command line to use.
 
 ## Credits
+
 Had some assistance from institution instructors.
 
 --------
 
 ## License
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
+https://opensource.org/licenses/MIT
+
+## How to Contribute
+
+N/A
 
 ## Tests
 
 Enter this command to run tests:
 
 ~~~
-npm init
+npm test
 ~~~
