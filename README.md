@@ -37,6 +37,11 @@ npm i
 3. Markdown Preview demo:
 ![Markdown Preview demo:](./assets/readme-preview.gif)
 
+4. This is an external link to a video demonstration of the application:
+
+    https://app.castify.com/analyze/fb98f3c7-9a10-4a88-919a-852de59552c3
+
+--------
 
 This application will be invoked with the command:
 ~~~
